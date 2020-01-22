@@ -35,7 +35,14 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CSVDemo">
+    <configuration name="CSVDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CSVDemo" />
+      <module name="lab2.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab2Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab2Example" />
       <module name="lab2.main" />
@@ -45,6 +52,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CSVDemo" />
         <item itemvalue="Application.Lab2Example" />
       </list>
     </recent_temporary>
@@ -72,11 +80,29 @@
       <option name="presentableId" value="Default" />
       <updated>1579705141803</updated>
       <workItem from="1579705146107" duration="839000" />
-      <workItem from="1579706324091" duration="22000" />
+      <workItem from="1579706324091" duration="582000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1579706924284">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579706924284" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1579706924283">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579706924283" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1579706924282">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579706924282" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1579706924283">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579706924283" />
   </component>
 </project>
